@@ -100,6 +100,7 @@ h1 {
 
 .add-to-cart-btn:hover {
   background: chocolate;
+  color: white;
 }
 
 .cart {
